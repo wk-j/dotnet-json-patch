@@ -1,1 +1,1 @@
-# Partial update model using `JsonPatchDocument`
+Partial update model using `JsonPatchDocument`
